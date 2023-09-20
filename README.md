@@ -1,4 +1,4 @@
-### Hi there 👋
+### Why on earth are you here? There's nothing to see :|
 
 <!--
 **Wumbee01/Wumbee01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

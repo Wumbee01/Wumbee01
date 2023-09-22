@@ -7,7 +7,6 @@ Bio: {
       ["pretty", "empty", "bio", "ngl"]
     }
   }
-  stuff
 }
 
 <!--

@@ -1,4 +1,14 @@
-### Why on earth are you here? There's nothing to see :|
+Why on earth are you here? There's nothing to see :|
+
+Bio: {
+  "my_projects": {
+    "Wumbot": "My discord bot (python)"
+    "nothing else really": {
+      ["pretty", "empty", "bio", "ngl"]
+    }
+  }
+  stuff
+}
 
 <!--
 **Wumbee01/Wumbee01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

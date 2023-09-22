@@ -1,5 +1,6 @@
 Why on earth are you here? There's nothing to see :|
 
+```py
 Bio: {
   "my_projects": {
     "Wumbot": "My discord bot (python)"
@@ -8,6 +9,7 @@ Bio: {
     }
   }
 }
+```
 
 <!--
 **Wumbee01/Wumbee01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

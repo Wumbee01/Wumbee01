@@ -1,4 +1,4 @@
-Why on earth are you here? There's nothing to see :|
+Why are you here? There's nothing to see :|
 
 ```py
 Bio: {
